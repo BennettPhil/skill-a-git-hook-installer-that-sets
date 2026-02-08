@@ -12,7 +12,7 @@ Implement the idea: A git hook installer that sets up pre-commit, pre-push, and 
 No additional context provided.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: test-driven-builder-v1-unified description: A builder that generates Agent Skills using a unified test runner with declarative test tables and property-based validation instead of separate script-based tests. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: pragmatic-builder-v2 description: An evolved pragmatic builder that mandates a CHANGELOG.md for better version tracking. version: 0.2.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.

@@ -6,4 +6,4 @@ Idea prompt: A git hook installer that sets up pre-commit, pre-push, and commit-
 None
 
 ## Notes
-Generated using builder `test-driven-builder-v1-unified` (9ad5772c-c3b7-48f6-b130-ac006aafd31c) with fitness 0.150.
+Generated using builder `pragmatic-builder-v2` (1dcb6677-9c65-4f74-af08-3c3b1e5ba7ba) with fitness 0.500.
